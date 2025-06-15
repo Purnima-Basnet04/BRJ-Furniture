@@ -1,3 +1,4 @@
+#main code#
 from operation import order_from_manufacturer, sell_to_customer
 from read import read_inventory
 
